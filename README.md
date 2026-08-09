@@ -1,91 +1,87 @@
-<h1 align="center">Hi 👋, I'm Eduardo Rocha Fernandes</h1>
-<h3 align="center">Blue Team enthusiast · SOC Analyst in training · Building detection tools with Python</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=550&lines=Securing+systems%2C+one+log+at+a+time;SOC+%7C+Threat+Detection+%7C+Automation;Currently+building%3A+Detection-as-Code" alt="Typing SVG" />
-</p>
+# Eduardo Rocha Fernandes
+### Cybersecurity Student · SOC / Blue Team Focus
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EduardoRochaFernandes&label=Profile%20views&color=6EE7B7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/EduardoRochaFernandes?label=Followers&style=flat&color=6EE7B7" alt="followers" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://SEU-SITE.com)
 
----
+</div>
 
-### 🧠 About Me
+<br>
 
-- 🔭 Currently working on **detection-as-code-pipeline** — a fail-closed CI/CD pipeline with an AI-powered SIEM alert triage assistant
-- 🛡️ Home-labbing a full SOC stack: Wazuh, ELK, Suricata, TheHive, MISP
-- 🕵️ Practicing offensive & defensive skills via TryHackMe and BLT Labs
-- 🌱 1st Degree student, deep in Cybersecurity fundamentals
-- 💬 Ask me about: SIEM, IOC triage, detection engineering, log pipelines
-- ⚡ Fun fact: I'd rather write a Python script than click through a GUI twice
+## About
 
----
+<!-- 2-3 frases curtas: quem és, o que procuras (estágio/emprego), foco de interesse -->
+Cybersecurity student focused on SOC operations and threat detection. Currently building hands-on experience through home-lab projects and CTF practice. Looking for [estágio / oportunidades em SOC / etc].
 
-### 🛠️ Tech Stack
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,mysql,tailwind,git,github,linux,docker,bash" />
-</p>
+## Education
 
-**Security Tooling**
+**[Nome do curso]** — [Instituição]
+*[Mês/Ano] – [Mês/Ano ou "Present"]*
+<!-- opcional: 1 linha sobre foco/média/cadeiras relevantes -->
 
-![Wazuh](https://img.shields.io/badge/Wazuh-1A2332?style=for-the-badge&logo=wazuh&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-CC0000?style=for-the-badge&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-FF4500?style=for-the-badge&logoColor=white)
-![MISP](https://img.shields.io/badge/MISP-003366?style=for-the-badge&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+<br>
 
----
+## Experience
 
-### 📌 Pinned Projects
+**[Cargo]** — [Empresa]
+*[Mês/Ano] – [Mês/Ano ou "Present"]*
+- [O que fizeste, em 1-2 bullets, resultado mensurável se possível]
+- [Ex: "Built detection rules reducing false-positive alerts by X%"]
 
-| Repo | Description |
-|---|---|
-| 🧪 [soc-home-lab](https://github.com/EduardoRochaFernandes/soc-home-lab) | Open-source SOC home lab — Wazuh · ELK · Suricata · TheHive · MISP |
-| 🚩 [ctf-writeups](https://github.com/EduardoRochaFernandes/ctf-writeups) | TryHackMe and BLT Labs completed during my 1st Degree |
-| ⚙️ [detection-as-code-pipeline](https://github.com/EduardoRochaFernandes/detection-as-code-pipeline) | Detection-as-Code pipeline (Sigma + Atomic Red Team) + fail-closed CI/CD with AI-powered SIEM alert triage |
-| 🔎 [ioc-checker](https://github.com/EduardoRochaFernandes/ioc-checker) | IOC triage tool using VirusTotal + AbuseIPDB |
-| 💰 [wise-wallet](https://github.com/EduardoRochaFernandes/wise-wallet) | Personal finance app: transactions, budgeting, goal planning, simulation |
-| ⚖️ [sandpile-load-balancer](https://github.com/EduardoRochaFernandes/sandpile-load-balancer) | 1º Degree 1º Semester load balancer project |
+<!-- Repete o bloco acima para cada experiência. Remove a secção inteira se não tiveres nenhuma ainda. -->
 
----
+<br>
 
-### 📊 GitHub Stats
+## Certifications
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoRochaFernandes&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRochaFernandes&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=c9d1d9" />
-</p>
+- [Nome da certificação] — [Emissor], [Ano]
+- [Nome da certificação] — [Emissor], [Ano]
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoRochaFernandes&theme=dark&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" />
-</p>
+<!-- Remove linhas/secção se ainda não tiveres nenhuma -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoRochaFernandes&theme=react-dark&hide_border=true&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=ffffff" />
-</p>
+<br>
 
----
+## Projects
 
-### 🏆 Achievements
+| Project | Description | Stack |
+|---|---|---|
+| [soc-home-lab](https://github.com/EduardoRochaFernandes/soc-home-lab) | Open-source SOC home lab | Wazuh, ELK, Suricata, TheHive, MISP |
+| [detection-as-code-pipeline](https://github.com/EduardoRochaFernandes/detection-as-code-pipeline) | Detection-as-Code CI/CD with AI-assisted alert triage | Sigma, Python |
+| [ioc-checker](https://github.com/EduardoRochaFernandes/ioc-checker) | IOC triage tool | Python, VirusTotal, AbuseIPDB |
+| [ctf-writeups](https://github.com/EduardoRochaFernandes/ctf-writeups) | TryHackMe / BLT Labs writeups | Python |
+| [wise-wallet](https://github.com/EduardoRochaFernandes/wise-wallet) | Personal finance management app | PHP, MySQL, Tailwind |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EduardoRochaFernandes&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
+<br>
 
----
+## Skills
 
-### 📫 Connect
+**Security:** Wazuh · ELK Stack · Suricata · TheHive · MISP · VirusTotal · AbuseIPDB
+**Languages:** Python · Java · PHP · SQL
+**Tools:** Git · Docker · Linux · Bash
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/SEU-USUARIO"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
-</p>
+## GitHub Activity
+
+<!-- Estes gráficos são ao vivo — puxam dados reais da tua conta automaticamente, sem configuração -->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EduardoRochaFernandes&show_icons=true&theme=default&hide_border=true&hide_title=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRochaFernandes&layout=compact&theme=default&hide_border=true&hide_title=true" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoRochaFernandes&theme=minimal&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+
+</div>
+
+<br>
+
+## Contact
+
+Open to conversations about SOC roles, detection engineering, and cybersecurity in general.
+[LinkedIn](https://linkedin.com/in/SEU-LINKEDIN) · [Email](mailto:SEU-EMAIL)
