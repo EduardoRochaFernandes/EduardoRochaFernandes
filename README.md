@@ -27,7 +27,7 @@ Every project below has CI, a license and a quick-start in its README.
 
 Also public: [ctf-writeups](https://github.com/EduardoRochaFernandes/ctf-writeups) (TryHackMe SOC Level 1 study notes, partly complete) and [Comptia-Sec-Study](https://github.com/EduardoRochaFernandes/Comptia-Sec-Study) (Security+ SY0-701 study notes).
 
-Private, available on request: *atalaia* (SOC range with capacity planning), *monrion* (real-estate website) and an archive of further TryHackMe notes.
+Private, available on request: *atalaia* (SOC range with capacity planning), *monrion* (web-agency portfolio site) and an archive of further TryHackMe notes.
 
 ## Tech and tools
 
