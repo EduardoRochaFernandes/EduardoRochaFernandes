@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Fernandes
 
-**Cybersecurity student building towards security architecture and detection engineering in regulated finance (Europe).**
+**Cybersecurity student building towards security architecture, detection engineering, IAM and GRC (Europe).**
 
 Based in Portugal. I'm a student at [ISEP](https://www.isep.ipp.pt/) (Porto), working through a hands-on path in blue-team operations, detection engineering and secure application development. This profile is my public portfolio; I try to keep every project honest about what is finished and what is still a learning exercise.
 
