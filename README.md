@@ -10,21 +10,24 @@ Based in Portugal. I'm a student at [ISEP](https://www.isep.ipp.pt/) (Porto), wo
 - **Detection-as-Code**: Sigma rules, MITRE ATT&CK mapping, tests in CI that must pass before a rule ships.
 - **Secure application development**: PHP and Python applications built with security in mind and checked in CI.
 - **Certifications in progress**: studying for CompTIA Security+ (not yet certified). Study notes are in [Comptia-Sec-Study](https://github.com/EduardoRochaFernandes/Comptia-Sec-Study).
-- **Hands-on practice**: TryHackMe SOC Level 1 and 2 paths, documented in [ctf-writeups](https://github.com/EduardoRochaFernandes/ctf-writeups).
+- **Hands-on practice**: TryHackMe SOC Level 1 path (in progress), documented in [ctf-writeups](https://github.com/EduardoRochaFernandes/ctf-writeups).
 
 ## Featured projects
 
+Every project below has CI, a license and a quick-start in its README.
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [detection-as-code-pipeline](https://github.com/EduardoRochaFernandes/detection-as-code-pipeline) | Sigma detections treated as software: tested against simulated ATT&CK techniques in CI with a fail-closed deploy gate, plus an offline-capable AI alert triage assistant. | Python, Sigma, GitHub Actions, Wazuh |
-| [wise-wallet](https://github.com/EduardoRochaFernandes/wise-wallet) | Personal finance web app: transactions, budgets, goals, investments, analytics and financial simulators. | PHP, MySQL/MariaDB, JavaScript, Tailwind CSS, Docker |
-| [ioc-checker](https://github.com/EduardoRochaFernandes/ioc-checker) | CLI triage tool for SOC analysts: checks IPs, domains, URLs and hashes against VirusTotal and AbuseIPDB and suggests next steps. | Python |
-| [soc-home-lab](https://github.com/EduardoRochaFernandes/soc-home-lab) | Open-source SOC home lab design (Wazuh, ELK, Suricata, TheHive, MISP) with detection content. | Python, Sigma, YAML |
-| [sandpile-load-balancer](https://github.com/EduardoRochaFernandes/sandpile-load-balancer) | Load-balancing model for distributed systems based on Abelian sandpile theory (first-year ISEP project, refactored). | Java, Maven, JUnit |
-| [ctf-writeups](https://github.com/EduardoRochaFernandes/ctf-writeups) | Structured notes from TryHackMe SOC paths and blue-team labs. | Markdown, Python |
+| [detection-as-code-pipeline](https://github.com/EduardoRochaFernandes/detection-as-code-pipeline) | Sigma rules tested against ATT&CK attack and clean-baseline fixtures, with a fail-closed CI gate, plus an offline-capable AI alert triage assistant. | Python, Sigma, GitHub Actions, Wazuh |
+| [wise-wallet](https://github.com/EduardoRochaFernandes/wise-wallet) | Security-minded personal-finance web app: budgets, goals, investments and simulators. Runs with Docker Compose or Codespaces. | PHP, MariaDB, JavaScript, Tailwind CSS, Docker |
+| [soc-home-lab](https://github.com/EduardoRochaFernandes/soc-home-lab) | SOC home lab design (Wazuh, ELK, Suricata, TheHive, Cortex, MISP) with setup guides, ATT&CK-mapped detection rules and runbooks. | Sigma, Wazuh, Suricata, Python |
+| [ioc-checker](https://github.com/EduardoRochaFernandes/ioc-checker) | CLI that triages IPs, domains, URLs and hashes via VirusTotal and AbuseIPDB, with verdicts and next steps. Offline demo mode needs no API keys. | Python |
+| [menu-projetos](https://github.com/EduardoRochaFernandes/menu-projetos) | Five front-end demo websites with a landing page, [live on GitHub Pages](https://eduardorochafernandes.github.io/menu-projetos/). Demo copy is in Portuguese. | HTML, CSS, JavaScript, Next.js |
+| [sandpile-load-balancer](https://github.com/EduardoRochaFernandes/sandpile-load-balancer) | Java model of load balancing on a server grid using Abelian sandpile theory (first-year ISEP project, refactored). | Java, Maven, JUnit 5 |
 
-Also public: [Comptia-Sec-Study](https://github.com/EduardoRochaFernandes/Comptia-Sec-Study) (Security+ study notes) and [menu-projetos](https://github.com/EduardoRochaFernandes/menu-projetos) (static index page for my front-end work).
-Private, available on request: *atalaia* (SOC range capacity-planning project) and *monrion* (real-estate website).
+Also public: [ctf-writeups](https://github.com/EduardoRochaFernandes/ctf-writeups) (TryHackMe SOC Level 1 study notes, partly complete) and [Comptia-Sec-Study](https://github.com/EduardoRochaFernandes/Comptia-Sec-Study) (Security+ SY0-701 study notes).
+
+Private, available on request: *atalaia* (SOC range with capacity planning), *monrion* (real-estate website) and an archive of further TryHackMe notes.
 
 ## Tech and tools
 
